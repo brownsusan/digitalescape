@@ -1,0 +1,97 @@
+/*Game Schema Overrides*/
+.page-schema-148 .content{
+	background: #222222;
+	padding: 30px 40px 20px;
+}
+
+.page-schema-148 img{
+	border: 4px solid white;
+}
+
+.page-schema-148 .game-image-1-portrait{
+	width: 95%;
+}
+
+.page-schema-148 .game-image-2-portrait{
+	width: 45%;
+	margin: 15px;
+}
+
+.page-schema-148 .game-image-3-portrait{
+	width: 30%;
+}
+
+.page-schema-148 .game-image-4-portrait{
+	width: 20%;
+	margin: 16px;
+}
+
+.page-schema-148 h2{
+	padding: 20px 40px 0;
+	margin-bottom: 0;
+	width: inherit;
+	display: block;
+	background-color: #222222;
+	width: auto;
+	float: left;
+	clear: both;
+	display: block;
+}
+
+.page-schema-148 div{
+	clear: both;
+}
+
+
+/*Theme Default Style Overrides*/
+html{
+	background-image: url('http://localhost:8888/digitalescape/wp-content/uploads/2012/10/JB3000_Castle-Ice-16-9.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: top left;
+}
+
+.logo{
+	max-width:100px !important;
+	background-color: #e6e6e6;
+}
+
+ul.social-list li a{
+	background-color: #ebebeb;
+}
+
+ul.social-list li a:hover{
+	background-color: #222222;
+}
+
+.nostalgia-accordion .ui-accordion-header.ui-state-active{
+	background-color: #222222 !important;
+}
+
+ul.testimonial-list li p{
+	background-color: #222222;
+}
+
+ul.testimonial-list .testimonial-list-author{
+	background-image: none !important;
+	padding-left: 0 !important;
+	position: relative;
+}
+
+ul.testimonial-list .testimonial-list-author::before{
+	display: block;
+	content: '';
+	width: 0px;
+	height: 0px;
+	border-style: solid;
+	border-width: 0px 30px 25px 10px;
+	border-color: transparent #222222 transparent transparent;  
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 15px;
+	margin-left: -10px;
+	margin-top: -7px;
+}
+
+}

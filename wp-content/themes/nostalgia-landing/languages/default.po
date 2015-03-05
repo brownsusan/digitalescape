@@ -1,0 +1,4079 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nostalgia - Responsive WordPress Landing Page 3.0\n"
+"POT-Creation-Date: 2015-02-18 20:24+0100\n"
+"PO-Revision-Date: 2015-02-18 20:24+0100\n"
+"Last-Translator: \n"
+"Language-Team: QuanticaLabs <quanticalabs@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress\\wp-content\\themes"
+"\\nostalgia-landing\n"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:40
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:230
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:279
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:385
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:410
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:422
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:458
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:471
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:556
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:593
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:643
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:693
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:908
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Helper.class.php:202
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Helper.class.php:221
+msgid "[Use default settings]"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:51
+msgid "Accordion: Accordion"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:53
+msgid "This shortcode creates accordion."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:58
+msgid "Active"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:59
+msgid "The zero-based index of the panel that is active (open)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:59
+msgid "Value 'false' means that all items will be closed at start."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:70
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:117
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:140
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:236
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:285
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:308
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:331
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:428
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:735
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:784
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:807
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:830
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:866
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:914
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:937
+msgid "CSS class"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:71
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:118
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:141
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:237
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:286
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:309
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:332
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:429
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:736
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:785
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:808
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:831
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:867
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:915
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:938
+msgid "List of CSS classes defined in CSS files separated by space."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:81
+msgid "Content of first panel"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:81
+msgid "Content of second panel"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:87
+msgid "Accordion: Accordion item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:89
+msgid "This shortcode creates single panel of accordion."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:94
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:889
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Accordion.class.php:50
+msgid "Header"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:104
+msgid "Content of panel"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:110
+msgid "Buttons: Audio player"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:112
+msgid "This shortcode creates audio player button with on/off music option."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:133
+msgid "Box: Box"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:135
+msgid "This shortcode creates box."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:151
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:948
+msgid "Here you can add text."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:157
+msgid "Buttons: Link button"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:159
+msgid "This shortcode creates button."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:164
+msgid "Label"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:165
+msgid "Label of a button."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:176
+msgid "URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:177
+msgid "URL address of a link."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:188
+msgid "Target"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:189
+msgid "Target of a link."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:201
+msgid "Fancybox popup width"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:212
+msgid "Fancybox popup height"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:223
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:224
+msgid "Show \"Click here\" arrow"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:230
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:385
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:410
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:422
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_meta_box.php:59
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_meta_box.php:69
+msgid "Yes"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:230
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:385
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:410
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:422
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_meta_box.php:61
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_meta_box.php:71
+msgid "No"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:252
+msgid "Features: Features"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:254
+msgid "This shortcode creates list of features."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:259
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:853
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.MetaTag.class.php:111
+msgid "Category"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:260
+msgid "Select categories from which features have to be retrieved."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:272
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:722
+msgid "Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:273
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:723
+msgid "Select type of layout."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:279
+msgid "Layout 1"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:279
+msgid "Layout 2"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:301
+msgid "Form: Contact Form"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:303
+msgid "This shortcode creates contact form based on theme settings."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:324
+msgid "Form: Newsletter Form"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:326
+msgid "This shortcode creates newsletter form based on theme settings."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:347
+msgid "Galleries: Gallery"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:349
+msgid "This shortcode creates gallery."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:354
+msgid "Gallery type"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:366
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:72
+msgid "Gallery categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:367
+msgid "Select categories from which images have to be displayed"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:379
+msgid "Show category filter bar"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:391
+msgid "Default category"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:392
+msgid "Specifies default selected category of gallery"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:404
+msgid "Show titles of gallery items"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:416
+msgid "Show descriptions of gallery items"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:444
+msgid "Google Map: Google Map"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:446
+msgid "This shortcode creates google map."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:451
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:13
+msgid "Enable company info box"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:452
+msgid "Enable or disable company info box on Google Map"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:458
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:471
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:556
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:593
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:643
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:668
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:693
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_content_copy.php:7
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_content_copy.php:17
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_responsive_mode.php:7
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_audio_player.php:7
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_audio_player.php:17
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_audio_player.php:27
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_audio_player.php:37
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:7
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:17
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:43
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:53
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:63
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:93
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:103
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:113
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:123
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:133
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:143
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_video.php:7
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_video.php:25
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:7
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:31
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:84
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:94
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:49
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:59
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:69
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:79
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:89
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:99
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:109
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:119
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:129
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:139
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:152
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:49
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:59
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:69
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:79
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:7
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:17
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:27
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:7
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:17
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:27
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:94
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:128
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:170
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:192
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:214
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:7
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:108
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:118
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:128
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_newsletter_form.php:7
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/social_network_twitter_carousel.php:7
+msgid "Enable"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:458
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:471
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:556
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:593
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:643
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:668
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:693
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_content_copy.php:9
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_content_copy.php:19
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_responsive_mode.php:9
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_audio_player.php:9
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_audio_player.php:19
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_audio_player.php:29
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_audio_player.php:39
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:9
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:19
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:45
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:55
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:65
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:95
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:105
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:115
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:125
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:135
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:145
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_video.php:9
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_video.php:27
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:9
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:33
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:86
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:96
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:51
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:61
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:71
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:81
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:91
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:101
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:111
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:121
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:131
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:141
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:154
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:51
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:61
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:71
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:81
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:9
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:19
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:29
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:9
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:19
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:29
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:96
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:130
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:172
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:194
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:216
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:9
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:110
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:120
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:130
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_newsletter_form.php:9
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/social_network_twitter_carousel.php:9
+msgid "Disable"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:464
+msgid "Show company info at start"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:465
+msgid "EShow or hide company info box at start"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:477
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:33
+msgid "Map type"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:489
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:45
+msgid "Point coordinates"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:490
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:508
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:47
+msgid "Coordinates, in order: latitude, longitude."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:507
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:60
+msgid "Marker coordinates"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:525
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:75
+msgid "Width"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:526
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:76
+#, php-format
+msgid "Width of the map (in % of the parent selector)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:537
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:83
+msgid "Height"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:538
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:84
+msgid "Height of the map (in px)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:549
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:90
+msgid "Map type control"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:550
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:91
+msgid "Enable or disable map type control."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:562
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:100
+msgid "Map type control style"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:574
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:112
+msgid "Map type control position"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:586
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:124
+msgid "Zoom control"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:587
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:125
+msgid "Enable or disable zoom control."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:599
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:134
+msgid "Zoom level"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:600
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:135
+msgid "Zoom level."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:612
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:142
+msgid "Zoom style"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:624
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:154
+msgid "Zoom position"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:636
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:166
+msgid "Pan control"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:637
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:167
+msgid "Enable or disable pan control."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:649
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:176
+msgid "Pan control position"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:661
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:188
+msgid "Scale control"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:662
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:189
+msgid "Enable or disable scale control."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:668
+msgid "[Use global settings]"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:674
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:198
+msgid "Scale control position"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:686
+msgid "Street view control"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:687
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:211
+msgid "Enable or disable street view control."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:699
+msgid "Street view control position"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:715
+msgid "Layouts: Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:717
+msgid "This shortcode creates layout."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:746
+msgid "Here you have to add columns."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:752
+msgid "Layouts: Layout column"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:754
+msgid "This shortcode creates column."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:759
+msgid "Column"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:760
+msgid "Select column position."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:771
+msgid "Here you can add content."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:777
+msgid "Logo: Logo"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:779
+msgid "This shortcode creates logo based on theme settings."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:800
+msgid "Social: Social profiles list"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:802
+msgid "This shortcode creates social profiles list on theme settings."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:823
+msgid "Social: Twitter carousel"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:825
+msgid ""
+"This shortcode creates latest tweets carousel based on settings from theme "
+"options."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:846
+msgid "Testimonials: Testimonials"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:848
+msgid "This shortcode creates list of testimonials."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:854
+msgid "Select categories from which testimonials have to be retrieved."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:882
+msgid "Text: Header"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:884
+msgid "This shortcode creates header."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:900
+msgid "Important"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:901
+msgid "Important of header."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:930
+msgid "Text: Subheader"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/shortcode_list.php:932
+msgid "This shortcode creates subheader."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.AudioPlayerPost.class.php:14
+msgid "MP3"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.AudioPlayerPost.class.php:15
+msgid "MP4"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.AudioPlayerPost.class.php:16
+msgid "OGG"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.AudioPlayerPost.class.php:17
+msgid "FLV"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.AudioPlayerPost.class.php:18
+msgid "WAV"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.AudioPlayerPost.class.php:19
+msgid "WEBM"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.AudioPlayerPost.class.php:34
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.AudioPlayerPost.class.php:35
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.AudioPlayerPost.class.php:46
+msgid "Audio Player"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.AudioPlayerPost.class.php:36
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundSliderPost.class.php:28
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundVideoPost.class.php:28
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.EmailAddressPost.class.php:24
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:53
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:41
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:28
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:33
+msgid "Add New"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.AudioPlayerPost.class.php:37
+msgid "Add New Audio Player Item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.AudioPlayerPost.class.php:38
+msgid "Edit Audio Player Item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.AudioPlayerPost.class.php:39
+msgid "New Audio Player Item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.AudioPlayerPost.class.php:40
+msgid "All Audio Player Items"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.AudioPlayerPost.class.php:41
+msgid "View Audio Player Item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.AudioPlayerPost.class.php:42
+msgid "Search Audio Player Items"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.AudioPlayerPost.class.php:43
+msgid "No Audio Player Items found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.AudioPlayerPost.class.php:44
+msgid "No Audio Player Items found in Trash"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.AudioPlayerPost.class.php:66
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundVideoPost.class.php:58
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:101
+msgid "Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.AudioPlayerPost.class.php:67
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundSliderPost.class.php:60
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundVideoPost.class.php:59
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.EmailAddressPost.class.php:60
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:102
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:60
+msgid "Date"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.AudioPlayerPost.class.php:91
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundVideoPost.class.php:83
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:156
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:133
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Page.class.php:23
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:141
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:139
+msgid "Options"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:14
+msgid "No overlay"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:15
+msgid "Coagulated"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:16
+msgid "Darken 20%"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:17
+msgid "Darken 30%"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:18
+msgid "Darken 40%"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:19
+msgid "Darken 50%"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:20
+msgid "Dimmed 20%"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:21
+msgid "Dimmed 30%"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:22
+msgid "Dimmed 40%"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:23
+msgid "Dimmed 50%"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:24
+msgid "Mellow"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:25
+msgid "Monaco"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:26
+msgid "Noise"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:27
+msgid "Nostalgia"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:28
+msgid "Pudding"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:29
+msgid "Sandstorm"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:30
+msgid "Screen"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:31
+msgid "Soft Screen"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:32
+msgid "Soften"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:33
+msgid "Stripes"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:34
+msgid "Warm Filter"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:39
+msgid "No repeat"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:40
+msgid "Repeat along the X and Y axis"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:41
+msgid "Repeat along the X axis"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:42
+msgid "Repeat along the Y axis"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:47
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CarouFredSel.class.php:20
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FancyBox.class.php:16
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NavigationBar.class.php:20
+msgid "None"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:48
+msgid "Fullscreen video"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Background.class.php:49
+msgid "Fullscreen image slideshow"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundSliderPost.class.php:26
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundSliderPost.class.php:27
+msgid "Background Slider"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundSliderPost.class.php:29
+msgid "Add New Background Slider Item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundSliderPost.class.php:30
+msgid "Edit Background Slider Item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundSliderPost.class.php:31
+msgid "New Background Slider Item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundSliderPost.class.php:32
+msgid "All Background Slider Items"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundSliderPost.class.php:33
+msgid "View Background Slider Item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundSliderPost.class.php:34
+msgid "Search Background Slider Items"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundSliderPost.class.php:35
+msgid "No Background Slider Items found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundSliderPost.class.php:36
+msgid "No Background Slider Items found in Trash"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundSliderPost.class.php:38
+msgid "BG Slider"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundSliderPost.class.php:58
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_background_setting.php:34
+msgid "Background image"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundSliderPost.class.php:59
+msgid "Background image title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundVideoPost.class.php:26
+msgid "Background Video"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundVideoPost.class.php:27
+msgid "Background Video Item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundVideoPost.class.php:29
+msgid "Add New Background Video Item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundVideoPost.class.php:30
+msgid "Edit Background Video Item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundVideoPost.class.php:31
+msgid "New Background Video Item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundVideoPost.class.php:32
+msgid "All Background Video Items"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundVideoPost.class.php:33
+msgid "View Background Video Item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundVideoPost.class.php:34
+msgid "Search Background Video Items"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundVideoPost.class.php:35
+msgid "No Background Video Items found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundVideoPost.class.php:36
+msgid "No Background Video Items found in Trash"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.BackgroundVideoPost.class.php:38
+msgid "BG Video"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CarouFredSel.class.php:14
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:119
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_schema_meta_box.php:41
+msgid "Right"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CarouFredSel.class.php:15
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:121
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_schema_meta_box.php:49
+msgid "Left"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CarouFredSel.class.php:21
+msgid "Scroll"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CarouFredSel.class.php:22
+msgid "Directscroll"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CarouFredSel.class.php:23
+msgid "Crossfade"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CarouFredSel.class.php:24
+msgid "Cover"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CarouFredSel.class.php:25
+msgid "Cover-fade"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CarouFredSel.class.php:26
+msgid "Uncover"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CarouFredSel.class.php:27
+msgid "Uncover-fade"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.class.php:358
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:13
+msgid "Theme Options"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.class.php:438
+msgid "Invalid value"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.class.php:439
+msgid "This field cannot be empty"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.class.php:1160
+msgid "Single image"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.class.php:1161
+msgid "Gallery thumbnail"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.class.php:1204
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.class.php:1205
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:197
+msgid "Install Plugins"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.class.php:1206
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.class.php:1207
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.class.php:1218
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:210
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.class.php:1219
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:212
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:1965
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.class.php:1220
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.class.php:1646
+#, php-format
+msgid ""
+"<b>File %s cannot be created. Please make sure that this location is "
+"writable.</b>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.class.php:1737
+msgid "Next"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.class.php:1738
+msgid "Close"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.class.php:1739
+msgid "Toggle size"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.class.php:1740
+msgid "Previous"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.class.php:1741
+msgid "Start slideshow"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.class.php:1742
+msgid "The requested content cannot be loaded.<br/>Please try again later."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.ContactForm.class.php:14
+msgid "SSL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.ContactForm.class.php:15
+msgid "TLS"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.ContactForm.class.php:56
+msgid "Please enter your name."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.ContactForm.class.php:62
+msgid "Please enter valid e-mail."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.ContactForm.class.php:68
+msgid "Please enter your message."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.ContactForm.class.php:112
+msgid "Sorry, we cannot send this message."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.ContactForm.class.php:117
+msgid "Thank you for contacting us."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CSS.class.php:14
+msgid "100"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CSS.class.php:15
+msgid "200"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CSS.class.php:16
+msgid "300"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CSS.class.php:17
+msgid "400"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CSS.class.php:18
+msgid "500"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CSS.class.php:19
+msgid "600"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CSS.class.php:20
+msgid "700"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CSS.class.php:21
+msgid "800"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CSS.class.php:22
+msgid "900"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CSS.class.php:23
+msgid "bold"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CSS.class.php:24
+msgid "bolder"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CSS.class.php:25
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CSS.class.php:32
+msgid "inherit"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CSS.class.php:26
+msgid "lighter"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CSS.class.php:27
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CSS.class.php:34
+msgid "normal"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CSS.class.php:33
+msgid "italic"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.CSS.class.php:35
+msgid "oblique"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:14
+msgid "easeInQuad"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:15
+msgid "easeOutQuad"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:16
+msgid "easeInOutQuad"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:17
+msgid "easeInCubic"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:18
+msgid "easeOutCubic"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:19
+msgid "easeInOutCubic"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:20
+msgid "easeInQuart"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:21
+msgid "easeOutQuart"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:22
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:23
+msgid "easeInOutQuart"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:24
+msgid "easeInQuint"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:25
+msgid "easeOutQuint"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:26
+msgid "easeInOutQuint"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:27
+msgid "easeInSine"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:28
+msgid "easeOutSine"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:29
+msgid "easeInOutSine"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:30
+msgid "easeInExpo"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:31
+msgid "easeOutExpo"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:32
+msgid "easeInOutExpo"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:33
+msgid "easeInCirc"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:34
+msgid "easeOutCirc"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:35
+msgid "easeInOutCirc"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:36
+msgid "easeInElastic"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:37
+msgid "easeOutElastic"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:38
+msgid "easeInOutElastic"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:39
+msgid "easeInBack"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:40
+msgid "easeOutBack"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:41
+msgid "easeInOutBack"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:42
+msgid "easeInBounce"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:43
+msgid "easeOutBounce"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Easing.class.php:44
+msgid "easeInOutBounce"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.EmailAddressPost.class.php:22
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.EmailAddressPost.class.php:23
+msgid "E-mail Address"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.EmailAddressPost.class.php:25
+msgid "Add New E-mail Address"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.EmailAddressPost.class.php:26
+msgid "Edit E-mail Address"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.EmailAddressPost.class.php:27
+msgid "New E-mail Address"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.EmailAddressPost.class.php:28
+msgid "All E-mail Addresses"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.EmailAddressPost.class.php:29
+msgid "View E-mail Address"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.EmailAddressPost.class.php:30
+msgid "Search E-mail Address"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.EmailAddressPost.class.php:31
+msgid "No E-mail Addresses found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.EmailAddressPost.class.php:32
+msgid "No E-mail Addresses found in Trash"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.EmailAddressPost.class.php:34
+msgid "E-mail Addresses"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.EmailAddressPost.class.php:59
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_company_info.php:52
+msgid "E-mail address"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FancyBox.class.php:14
+msgid "Elastic"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FancyBox.class.php:15
+msgid "Fade"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:14
+msgid "Empty (red background)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:15
+msgid "Apple (red background)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:16
+msgid "Android (red background)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:17
+msgid "Application (white background)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:18
+msgid "Post (white background)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:19
+msgid "Heart (white background)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:20
+msgid "Image (white background)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:21
+msgid "People (white background)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:22
+msgid "Camera (white background)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:23
+msgid "Document (white background)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:24
+msgid "Briefcase (white background)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:25
+msgid "Lightbulb (white background)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:26
+msgid "Binoculars (white background)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:27
+msgid "Basket (white background)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:28
+msgid "Chart (white background)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:29
+msgid "Chat (white background)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:30
+msgid "Clock (white background)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:31
+msgid "Database (white background)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:32
+msgid "Mail (white background)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:33
+msgid "Music (white background)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:34
+msgid "Screen (white background)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:35
+msgid "Target (white background)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:36
+msgid "Video (white background)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:51
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:63
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NavigationBar.class.php:24
+msgid "Features"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:52
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:112
+msgid "Feature"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:54
+msgid "Add New Feature Item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:55
+msgid "Edit Feature Item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:56
+msgid "New Feature Item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:57
+msgid "All Feature Items"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:58
+msgid "View Feature Item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:59
+msgid "Search Feature Items"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:60
+msgid "No Feature Items found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:61
+msgid "No Feature Items found in Trash"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:81
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:86
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:69
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:74
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:61
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:66
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:84
+msgid "Features categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:85
+msgid "Feature category"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:87
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:75
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:67
+msgid "All Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:88
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:76
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:68
+msgid "Edit Category"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:89
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:77
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:69
+msgid "View Category"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:90
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:78
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:70
+msgid "Update Category"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:91
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:79
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:71
+msgid "Add New Category"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:92
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:80
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:72
+msgid "New Category Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:93
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:81
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:73
+msgid "Parent Category"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:94
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:82
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:74
+msgid "Parent Category:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:95
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:83
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:75
+msgid "Search Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:96
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:84
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:76
+msgid "Popular Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:97
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:85
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:77
+msgid "Separate categories with commas"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:98
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:86
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:78
+msgid "Add or remove categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:99
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:87
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:79
+msgid "Choose from the most used categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.FeaturePost.class.php:113
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/feature_meta_box.php:5
+msgid "Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:14
+msgid "Open image in lightbox"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:15
+msgid "Open page in the new window"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:16
+msgid "Open page in the same window"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:17
+msgid "Open video from Vimeo in lighbox"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:18
+msgid "Open video from Youtube in lighbox"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:23
+msgid "Default gallery"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:24
+msgid "Carousel gallery"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:39
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:51
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:76
+msgid "Galleries"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:40
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NavigationBar.class.php:25
+msgid "Gallery"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:42
+msgid "Add New Gallery"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:43
+msgid "Edit Gallery Item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:44
+msgid "New Gallery Item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:45
+msgid "All Gallery Items"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:46
+msgid "View Gallery Item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:47
+msgid "Search Gallery Items"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:48
+msgid "No Gallery Items found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:49
+msgid "No Gallery Items found in Trash"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:73
+msgid "Gallery category"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GalleryPost.class.php:100
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/gallery_meta_box.php:41
+msgid "Image"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GoogleMap.class.php:14
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GoogleMap.class.php:21
+msgid "Default"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GoogleMap.class.php:15
+msgid "Small"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GoogleMap.class.php:16
+msgid "Large"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GoogleMap.class.php:22
+msgid "Horizontal Bar"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GoogleMap.class.php:23
+msgid "Dropdown Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GoogleMap.class.php:28
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NavigationBar.class.php:40
+msgid "Top center"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GoogleMap.class.php:29
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NavigationBar.class.php:39
+msgid "Top left"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GoogleMap.class.php:30
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NavigationBar.class.php:41
+msgid "Top right"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GoogleMap.class.php:31
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NavigationBar.class.php:50
+msgid "Left top"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GoogleMap.class.php:32
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NavigationBar.class.php:42
+msgid "Right top"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GoogleMap.class.php:33
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NavigationBar.class.php:49
+msgid "Left center"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GoogleMap.class.php:34
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NavigationBar.class.php:43
+msgid "Right center"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GoogleMap.class.php:35
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NavigationBar.class.php:48
+msgid "Left bottom"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GoogleMap.class.php:36
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NavigationBar.class.php:44
+msgid "Right bottom"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GoogleMap.class.php:37
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NavigationBar.class.php:46
+msgid "Bottom center"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GoogleMap.class.php:38
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NavigationBar.class.php:47
+msgid "Bottom left"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GoogleMap.class.php:39
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NavigationBar.class.php:45
+msgid "Bottom right"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GoogleMap.class.php:44
+msgid "Roadmap"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GoogleMap.class.php:45
+msgid "Satellite"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GoogleMap.class.php:46
+msgid "Hybrid"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.GoogleMap.class.php:47
+msgid "Terrain"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Helper.class.php:200
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Helper.class.php:219
+msgid "[None]"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Helper.class.php:201
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Helper.class.php:220
+msgid "[Select]"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Layout.class.php:24
+msgid "Left column"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Layout.class.php:25
+msgid "Center left column"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Layout.class.php:26
+msgid "Center column"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Layout.class.php:27
+msgid "Center right column"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Layout.class.php:28
+msgid "Right column"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.MetaTag.class.php:16
+msgid "Keywords"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.MetaTag.class.php:21
+msgid "Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.MetaTag.class.php:26
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:100
+msgid "Subject"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.MetaTag.class.php:31
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.MetaTag.class.php:81
+msgid "Copyright"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.MetaTag.class.php:36
+msgid "Language"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.MetaTag.class.php:41
+msgid "Robots"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.MetaTag.class.php:46
+msgid "Revised"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.MetaTag.class.php:51
+msgid "Abstract"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.MetaTag.class.php:56
+msgid "Topic"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.MetaTag.class.php:61
+msgid "Summary"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.MetaTag.class.php:66
+msgid "Classification"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.MetaTag.class.php:71
+msgid "Author"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.MetaTag.class.php:76
+msgid "Designer"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.MetaTag.class.php:86
+msgid "Reply-to"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.MetaTag.class.php:91
+msgid "Owner"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.MetaTag.class.php:96
+msgid "Url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.MetaTag.class.php:101
+msgid "Identifier-URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.MetaTag.class.php:106
+msgid "Directory"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.MetaTag.class.php:116
+msgid "Coverage"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.MetaTag.class.php:121
+msgid "Distribution"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.MetaTag.class.php:126
+msgid "Rating"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.MetaTag.class.php:131
+msgid "Revisit-after"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.MetaTag.class.php:136
+msgid "Expires"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.MetaTag.class.php:141
+msgid "Pragma"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.MetaTag.class.php:146
+msgid "Cache-Control"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NavigationBar.class.php:21
+msgid "Carousel"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NavigationBar.class.php:22
+msgid "Cart"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NavigationBar.class.php:23
+msgid "Contact"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NavigationBar.class.php:26
+msgid "Gift"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NavigationBar.class.php:27
+msgid "Hero"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NavigationBar.class.php:28
+msgid "List"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NavigationBar.class.php:29
+msgid "Location"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NavigationBar.class.php:30
+msgid "People"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NavigationBar.class.php:31
+msgid "Social"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NavigationBar.class.php:32
+msgid "Stats"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NavigationBar.class.php:33
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:31
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:43
+msgid "Testimonials"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NavigationBar.class.php:34
+msgid "Videos"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NewsletterForm.class.php:49
+msgid "Please enter valid e-mail address."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NewsletterForm.class.php:60
+msgid "Sorry. Your e-mail address exists."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.NewsletterForm.class.php:74
+msgid "Your address has been added."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Notice.class.php:46
+msgid "Error"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Notice.class.php:47
+msgid "Changes can not be saved."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Notice.class.php:51
+msgid "Success"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Notice.class.php:52
+msgid "All changes have been saved."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Page.class.php:14
+msgid "Full width"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Page.class.php:15
+msgid "Half width"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:26
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:38
+msgid "Page Schemas"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:27
+msgid "Page Schema"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:29
+msgid "Add New Page Schema"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:30
+msgid "Edit Page Schema Item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:31
+msgid "New Page Schema Item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:32
+msgid "All Page Schema Items"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:33
+msgid "View Page Schema Item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:34
+msgid "Search Page Schema Items"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:35
+msgid "No Page Schema Items found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:36
+msgid "No Page Schema Items found in Trash"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:58
+msgid "Page Schema title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:59
+msgid "Properties"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:97
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_schema_meta_box.php:5
+msgid "Base text color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:102
+msgid "Header text color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:107
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_background_setting.php:27
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_schema_meta_box.php:19
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:25
+msgid "Background color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:112
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_schema_meta_box.php:26
+msgid "Background opacity"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:116
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_schema_meta_box.php:34
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:3
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:3
+msgid "Padding"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:118
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_schema_meta_box.php:37
+msgid "Top"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:118
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:119
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:120
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:121
+msgid "px"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:120
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_schema_meta_box.php:45
+msgid "Bottom"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.PageSchemaPost.class.php:125
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_schema_meta_box.php:54
+msgid "Min height"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.ShortCodeManager.class.php:66
+msgid "Select shortcode"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.SocialNetwork.class.php:14
+msgid "Twitter"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.SocialNetwork.class.php:15
+msgid "Facebook"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.SocialNetwork.class.php:16
+msgid "Google +"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.SocialNetwork.class.php:17
+msgid "Flickr"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.SocialNetwork.class.php:18
+msgid "Forrst"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.SocialNetwork.class.php:19
+msgid "Linkedin"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.SocialNetwork.class.php:20
+msgid "Skype"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.SocialNetwork.class.php:21
+msgid "Soundcloud"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.SocialNetwork.class.php:22
+msgid "Xing"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.SocialNetwork.class.php:23
+msgid "Youtube"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Supersized.class.php:14
+msgid "No adjustments"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Supersized.class.php:15
+msgid ""
+"Hybrid, lowers image quality during transitions and restores after completed"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Supersized.class.php:16
+msgid "Higher image quality"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Supersized.class.php:17
+msgid "Faster transition speed, lower image quality"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Supersized.class.php:22
+msgid "No transition effect"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Supersized.class.php:23
+msgid "Fade effect"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Supersized.class.php:24
+msgid "Slide in from top"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Supersized.class.php:25
+msgid "Slide in from right"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Supersized.class.php:26
+msgid "Slide in from bottom"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Supersized.class.php:27
+msgid "Slide in from left"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Supersized.class.php:28
+msgid "Carousel from right to left"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Supersized.class.php:29
+msgid "Carousel from left to right"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:32
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:92
+msgid "Testimonial"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:34
+msgid "Add New Testimonial"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:35
+msgid "Edit Testimonial Item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:36
+msgid "New Testimonial Item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:37
+msgid "All Testimonial Items"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:38
+msgid "View Testimonial Item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:39
+msgid "Search Testimonial Items"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:40
+msgid "No Testimonial Items found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:41
+msgid "No Testimonial Items found in Trash"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:64
+msgid "Testimonials categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:65
+msgid "Testimonial category"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:93
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/testimonial_meta_box.php:5
+msgid "Person"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.TestimonialPost.class.php:94
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/testimonial_meta_box.php:12
+msgid "Company"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Window.class.php:14
+msgid "Open page in the same frame"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Window.class.php:15
+msgid "Open page in a new window"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/class/NLTheme.Window.class.php:16
+msgid "Open page in a fancyBox popup"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:213
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:556
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:2182
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:1186
+msgid "Private Repository"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:1189
+msgid "Pre-Packaged"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:1194
+msgid "WordPress Repository"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:1197
+msgid "Required"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:1197
+msgid "Recommended"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:1200
+msgid "Not Installed"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:1202
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:1304
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:1412
+msgid "Install"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:1326
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:1413
+msgid "Activate"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:1375
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:1391
+msgid "Plugin"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:1392
+msgid "Source"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:1393
+msgid "Type"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:1394
+msgid "Status"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:1522
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:1630
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:1948
+msgid "Install package not available."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:1949
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:1950
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:1951
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:1952
+msgid "Plugin install failed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:1953
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:1964
+msgid "Plugin activation failed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:2078
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:2079
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:2088
+msgid "Show Details"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:2079
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:2088
+msgid "Hide Details"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:2080
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:2085
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:2086
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:2087
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:2088
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:2089
+msgid "All installations have been completed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/library/tgm_plugin_activation/class-tgm-plugin-activation.php:2090
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/contact_form.php:5
+msgid "Your name"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/contact_form.php:9
+msgid "Your e-mail"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/contact_form.php:13
+msgid "Your message"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/contact_form.php:18
+msgid "Send"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/gallery.php:12
+msgid "All items"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/newsletter_form.php:5
+msgid "Your e-mail address"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/newsletter_form.php:10
+msgid "Add"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:40
+msgid "Main"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:42
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_logo.php:3
+msgid "Logo"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:43
+msgid "Pages"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:44
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_favicon.php:3
+msgid "Favicon"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:45
+msgid "Company info"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:46
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_responsive_mode.php:3
+msgid "Responsive mode"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:47
+msgid "Content copying"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:48
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_google_analytics.php:3
+msgid "Google Analytics"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:49
+msgid "Background settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:53
+msgid "Fonts"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:55
+msgid "Base"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:56
+msgid "Header H1"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:57
+msgid "Header H2"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:58
+msgid "Header H3"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:59
+msgid "Header H4"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:60
+msgid "Header H5"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:61
+msgid "Header H6"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:62
+msgid "Subheader"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:63
+msgid "Link buttons"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:67
+msgid "Socials"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:69
+msgid "Profile pages"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:70
+msgid "Tweets carousel"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:74
+msgid "Plugins"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:77
+msgid "Audio player"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:78
+msgid "Google Maps"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:79
+msgid "Contact form"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:80
+msgid "Navigation bar"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:81
+msgid "Newsletter form"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:82
+msgid "Gallery carousel"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:83
+msgid "Fancybox for videos"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:84
+msgid "Fancybox for images"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:85
+msgid "Fullscreen image slider"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:86
+msgid "Fullscreen video background"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:90
+msgid "Meta tags"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:93
+msgid "Custom CSS"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:95
+msgid "Default styles"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:96
+msgid "For width 768px - 969px"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:97
+msgid "For width 480px - 767px"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:98
+msgid "For width less/equal than 479px"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/admin.php:176
+msgid "Save changes"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/audio_player_meta_box.php:5
+msgid "File type"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/audio_player_meta_box.php:6
+msgid "Select audio file type."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/audio_player_meta_box.php:17
+msgid "Audio file"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/audio_player_meta_box.php:19
+msgid "Select audio file from media library or paste URL. Media Support:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/audio_player_meta_box.php:20
+msgid ""
+"HTML5: mp3, mp4 (AAC/H.264), ogg (Vorbis/Theora), webm (Vorbis/VP8), wav, "
+"Flash: mp3, mp4 (AAC/H.264), flv"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/audio_player_meta_box.php:24
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/bg_video_meta_box.php:9
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_favicon.php:7
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_logo.php:7
+msgid "Browse"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/bg_video_meta_box.php:5
+msgid "Video file"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/bg_video_meta_box.php:6
+msgid "Select video file from media library or paste URL."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/custom_css_responsive_1.php:3
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/custom_css_responsive_2.php:3
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/custom_css_responsive_3.php:3
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/custom_css_responsive_4.php:3
+msgid "CSS styles"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/custom_css_responsive_1.php:4
+msgid "Default CSS styles."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/custom_css_responsive_2.php:4
+msgid "CSS styles for page width between 768px and 959px."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/custom_css_responsive_3.php:4
+msgid "CSS styles for page width between 480px and 767px."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/custom_css_responsive_4.php:4
+msgid "CSS styles for page width less/equal than 479px."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/feature_meta_box.php:6
+msgid "Select icon."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_base.php:3
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h1.php:4
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h2.php:3
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h3.php:3
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h4.php:3
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h5.php:3
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h6.php:3
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_link_button.php:3
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_subheader.php:3
+msgid "Google Font"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_base.php:4
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h1.php:5
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h2.php:4
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h3.php:4
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h4.php:4
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h5.php:4
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h6.php:4
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_link_button.php:4
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_subheader.php:4
+msgid "Enter name of Google Font and select it from list."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_base.php:10
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h1.php:11
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h2.php:10
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h3.php:10
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h4.php:10
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h5.php:10
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h6.php:10
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_link_button.php:10
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_subheader.php:10
+msgid "System font"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_base.php:11
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h1.php:12
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h2.php:11
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h3.php:11
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h4.php:11
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h5.php:11
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h6.php:11
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_link_button.php:11
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_subheader.php:11
+msgid "Enter name of system font."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_base.php:17
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h1.php:18
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h2.php:17
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h3.php:17
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h4.php:17
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h5.php:17
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h6.php:17
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_link_button.php:17
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_subheader.php:17
+msgid "Font size"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_base.php:18
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h1.php:19
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h2.php:18
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h3.php:18
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h4.php:18
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h5.php:18
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h6.php:18
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_link_button.php:18
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_subheader.php:18
+msgid "Font size (in px)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_base.php:22
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h1.php:23
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h2.php:22
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h3.php:22
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h4.php:22
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h5.php:22
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h6.php:22
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_link_button.php:22
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_subheader.php:22
+msgid "For page width greater/equal than 970px."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_base.php:27
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h1.php:28
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h2.php:27
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h3.php:27
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h4.php:27
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h5.php:27
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h6.php:27
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_link_button.php:27
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_subheader.php:27
+msgid "For page width between 768px and 969px."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_base.php:32
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h1.php:33
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h2.php:32
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h3.php:32
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h4.php:32
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h5.php:32
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h6.php:32
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_link_button.php:32
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_subheader.php:32
+msgid "For page width between 480px and 767px."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_base.php:37
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h1.php:38
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h2.php:37
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h3.php:37
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h4.php:37
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h5.php:37
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h6.php:37
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_link_button.php:37
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_subheader.php:37
+msgid "For page width less/equal than 479px."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_base.php:41
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h1.php:42
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h2.php:41
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h3.php:41
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h4.php:41
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h5.php:41
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h6.php:41
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_link_button.php:41
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_subheader.php:41
+msgid "Font style"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_base.php:42
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h1.php:43
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h2.php:42
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h3.php:42
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h4.php:42
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h5.php:42
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h6.php:42
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_link_button.php:42
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_subheader.php:42
+msgid "Font style."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_base.php:53
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h1.php:54
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h2.php:53
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h3.php:53
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h4.php:53
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h5.php:53
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h6.php:53
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_link_button.php:53
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_subheader.php:53
+msgid "Font weight"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_base.php:54
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h1.php:55
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h2.php:54
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h3.php:54
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h4.php:54
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h5.php:54
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_header_h6.php:54
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_link_button.php:54
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/font_subheader.php:54
+msgid "Font weight."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/gallery_meta_box.php:5
+msgid "On click action"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/gallery_meta_box.php:6
+msgid "Select action when user click on thumbnail."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/gallery_meta_box.php:17
+msgid "Video URL (Youtube)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/gallery_meta_box.php:18
+msgid "Enter URL of video from Youtube."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/gallery_meta_box.php:24
+msgid "Video URL (Vimeo)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/gallery_meta_box.php:25
+msgid "Enter URL of video from Vimeo."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/gallery_meta_box.php:31
+msgid "Page URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/gallery_meta_box.php:32
+msgid "Enter URL of which need to open."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/gallery_meta_box.php:38
+msgid "Additional shortcodes"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/gallery_meta_box.php:39
+msgid "Additional shortcodes."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_background_setting.php:3
+msgid "Background content"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_background_setting.php:4
+msgid "Select active background element."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_background_setting.php:15
+msgid "Background overlay"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_background_setting.php:16
+msgid "Background overlay style."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_background_setting.php:28
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_schema_meta_box.php:20
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:26
+msgid "Background color (in HEX)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_background_setting.php:35
+msgid "Select image for background."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_background_setting.php:42
+msgid "Background image postion"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_background_setting.php:43
+msgid "Set image background position. Eg. 0px 0px."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_background_setting.php:49
+msgid "Background image repeat"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_background_setting.php:50
+msgid "Background image repeat."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_company_info.php:3
+msgid "Company name"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_company_info.php:4
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/testimonial_meta_box.php:13
+msgid "Company name."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_company_info.php:10
+msgid "Street"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_company_info.php:11
+msgid "Street."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_company_info.php:17
+msgid "Postcode"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_company_info.php:18
+msgid "Postcode."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_company_info.php:24
+msgid "City"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_company_info.php:25
+msgid "City."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_company_info.php:31
+msgid "Country"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_company_info.php:32
+msgid "Country."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_company_info.php:38
+msgid "Phone number"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_company_info.php:39
+msgid "Phone number."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_company_info.php:45
+msgid "Fax number"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_company_info.php:46
+msgid "Fax number."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_company_info.php:53
+msgid "E-mail address."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_content_copy.php:3
+msgid "Right click"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_content_copy.php:4
+msgid "Enable or disable right click."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_content_copy.php:13
+msgid "Text selection"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_content_copy.php:14
+msgid "Enable or disable text selection."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_favicon.php:4
+msgid "Enter URL of favicon."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_google_analytics.php:4
+msgid "Don't enter <script> tags. These tags will be added automatically."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_logo.php:4
+msgid "Enter URL of image."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_logo.php:11
+msgid "Logo URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_logo.php:12
+msgid "Enter URL of page."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_page.php:3
+msgid "Pages margin"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_page.php:4
+msgid "Margin between pages (in px)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_page.php:10
+msgid "First page margin"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_page.php:11
+msgid "Top margin of first page (in px)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_page.php:17
+msgid "Last page margin"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_page.php:18
+msgid "Bottom margin of last page (in px)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/general_responsive_mode.php:4
+msgid "Enable or disable responsive mode."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_meta_box.php:9
+msgid "Page schema"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_meta_box.php:10
+msgid "Select page schema."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_meta_box.php:24
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_schema_meta_box.php:61
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_schema_meta_box.php:62
+msgid "Additional class name"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_meta_box.php:25
+msgid "Additional class name."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_meta_box.php:31
+msgid "Page layout"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_meta_box.php:32
+msgid "Select page layout."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_meta_box.php:43
+msgid "Navigation bar icon"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_meta_box.php:44
+msgid "Navigation bar icon."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_meta_box.php:55
+msgid "Show header"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_meta_box.php:56
+msgid "Show header."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_meta_box.php:65
+msgid "Show page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_meta_box.php:66
+msgid "Show page."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_schema_meta_box.php:6
+msgid "Base text color (in HEX)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_schema_meta_box.php:12
+msgid "Headers text color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_schema_meta_box.php:13
+msgid "Headers text color (in HEX)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_schema_meta_box.php:27
+msgid "Background opacity (in %)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_schema_meta_box.php:35
+msgid "Padding in px (top, right, bottom, left)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_schema_meta_box.php:55
+msgid "Min height (in px)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_schema_meta_box.php:68
+msgid "Custom CSS classes"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/page_schema_meta_box.php:69
+#, php-format
+msgid "Each CSS class need to be prefixed with .page-schema-%s class. E.g:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_audio_player.php:3
+msgid "Enable Audio Player"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_audio_player.php:4
+msgid "Enable or disable audio player."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_audio_player.php:13
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_video.php:3
+msgid "Enable Audio Player on mobile and tablet devices"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_audio_player.php:14
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_video.php:4
+msgid "Enable Audio Player on mobile and tablet devices."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_audio_player.php:23
+msgid "Play at start"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_audio_player.php:24
+msgid "Play at start."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_audio_player.php:33
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_video.php:21
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:145
+msgid "Loop"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_audio_player.php:34
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_video.php:22
+msgid "Loop."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_audio_player.php:43
+msgid "Volume"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_audio_player.php:44
+msgid "Volume."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:3
+msgid "Enable Fullscreen Image Slider on mobile and tablet devices"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:4
+msgid "Enable Fullscreen Image Slider on mobile and tablet devices."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:13
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:3
+msgid "Autoplay"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:14
+msgid "Determines whether slideshow begins playing when page is loaded."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:23
+msgid "Slide interval"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:24
+msgid "Time between slide changes in milliseconds."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:26
+msgid "Time in milliseconds"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:31
+msgid "Start slide"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:32
+msgid "The slide the slideshow starts on."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:34
+msgid "Number of image"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:39
+msgid "Stop loop"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:40
+msgid "Pauses slideshow upon reaching the last slide."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:49
+msgid "Random"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:50
+msgid "Slides are shown in a random order."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:59
+msgid "Slideshow"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:60
+msgid "Turns the slideshow on/off."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:69
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:165
+msgid "Transition"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:70
+msgid "Controls which effect is used to transition between slides."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:81
+msgid "Transition speed"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:82
+msgid "Speed of transitions in milliseconds."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:84
+msgid "Time in miliseconds"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:89
+msgid "Fit always"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:90
+msgid "Prevents the image from ever being cropped."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:99
+msgid "Fit landscape"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:100
+msgid "Prevents the image from being cropped by locking it at 100% width."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:109
+msgid "Fit portrait"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:110
+msgid "Prevents the image from being cropped by locking it at 100% height."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:119
+msgid "Horizontal center"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:120
+msgid ""
+"Centers image horizontally. When turned off, the images resize/display from "
+"the left of the page."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:129
+msgid "Vertical center"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:130
+msgid ""
+"Centers image vertically. When turned off, the images resize/display from "
+"the top of the page."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:139
+msgid "Keyboard navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:140
+msgid "Allows control via keyboard."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:149
+msgid "Performance"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_image.php:150
+msgid ""
+"Uses image rendering options in Firefox and Internet Explorer to adjust "
+"image quality. This can speed up/slow down transitions. Webkit does not yet "
+"support these options."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_video.php:13
+msgid "Poster"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_background_video.php:14
+msgid ""
+"Poster (image) is displayed in browsers that don't support the HTML5 video."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:3
+msgid "Enable contact form"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:4
+msgid "Enable or disable contact form."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:13
+msgid "Recipient name"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:14
+msgid "Recipient name of the mail message."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:20
+msgid "Recipient e-mail address"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:21
+msgid "Recipient e-mail address of the mail message."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:27
+msgid "Enable SMTP"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:28
+msgid "Enable or disable SMTP."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:37
+msgid "Username"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:38
+msgid "Username."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:44
+msgid "Password"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:45
+msgid "Password."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:51
+msgid "Host"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:52
+msgid "Host."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:58
+msgid "Port"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:59
+msgid "Port."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:65
+msgid "Secure connection type"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:66
+msgid "Secure connection type."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:77
+msgid "Debug contact form"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:79
+msgid "Enable this option if you have problems with working of contact form."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:80
+msgid ""
+"Then, you can check the result of processing request via Fire- or Chromebug "
+"console."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:90
+msgid "Reset contact form"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:91
+msgid ""
+"Enable this option if you would like to reset all fields in contact form "
+"after sending message."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:101
+msgid "Message subject."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:107
+msgid "Message"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_contact_form.php:108
+msgid "Message."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:4
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:4
+msgid "Space between FancyBox wrapper and content (in px)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:10
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:10
+msgid "Margin"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:11
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:11
+msgid "Space between viewport and FancyBox wrapper (in px)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:17
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:17
+msgid "Minimum width"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:18
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:18
+msgid "Minimum width fancyBox should be allowed to resize to\t(in px)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:24
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:24
+msgid "Minimum height"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:25
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:25
+msgid "Minimum height fancyBox should be allowed to resize to (in px)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:31
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:31
+msgid "Maximum width"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:32
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:32
+msgid "Maximum width fancyBox should be allowed to resize to\t(in px)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:38
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:38
+msgid "Maximum height"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:39
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:39
+msgid "Maximum height fancyBox should be allowed to resize to (in px)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:45
+msgid "Buttons"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:46
+msgid "When enabled, helper buttons will appear over the image."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:55
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:45
+msgid "Auto resize"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:56
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:46
+msgid "When enabled, the content will be resized after window resize event."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:65
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:55
+msgid "Auto center"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:66
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:56
+msgid "When enabled, the content will always be centered."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:75
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:65
+msgid "Fit to view"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:76
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:66
+msgid ""
+"When enabled, fancyBox is resized to fit inside viewport before opening."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:85
+msgid "Arrows"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:86
+msgid "When enabled, navigation arrows will be displayed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:95
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:75
+msgid "Close button"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:96
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_video.php:76
+msgid "When enabled, close button will be displayed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:105
+msgid "Close on content click"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:106
+msgid "When enabled, fancyBox will be closed when user clicks the content."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:115
+msgid "Next click"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:116
+msgid ""
+"When enabled, will navigate to next gallery item when user clicks the "
+"content."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:125
+msgid "Mouse wheel"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:126
+msgid ""
+"When enabled, you will be able to navigate gallery using the mouse wheel."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:135
+msgid "Auto play"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:136
+msgid ""
+"When enabled, slideshow will start after opening the first gallery item."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:147
+msgid "When enabled, enables cyclic navigation."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:148
+msgid ""
+"This means, if you click 'next' after you reach the last element, first "
+"element will be displayed (and vice versa)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:158
+msgid "Play speed"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:159
+msgid "Slideshow speed (in ms)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:166
+msgid "Select transition type."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:168
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:208
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:248
+msgid "Open:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:177
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:217
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:252
+msgid "Close:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:186
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:226
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:256
+msgid "Next:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:195
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:235
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:260
+msgid "Previous:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:205
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:85
+msgid "Easing"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:206
+msgid "Easing method for each transition type."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:245
+msgid "Speed"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_fancybox_image.php:246
+msgid "The time it takes (in ms) to complete transition."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery.php:3
+msgid "Limit number of letters in image excerpt"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery.php:4
+msgid "Limit number of letters in image excerpt."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery.php:10
+msgid "Characters after cut excerpt"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery.php:11
+msgid "Characters after cut excerpt."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:4
+msgid "Autoplay."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:13
+msgid "Circular"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:14
+msgid "Determines whether the carousel should be circular."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:23
+msgid "Infinite"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:24
+msgid "Determines whether the carousel should be infinite."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:33
+msgid "Direction"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:34
+msgid ""
+"The direction to scroll the carousel, determines whether the carousel "
+"scrolls horizontal or vertical and -when the carousel scrolls automatically- "
+"in what direction."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:45
+msgid "Number of visible items"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:46
+msgid "The number of visible items."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:52
+msgid "Minimum number of items"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:53
+msgid "The minimum number of items needed to create a carousel."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:59
+msgid "Start item number"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:60
+msgid "Start item number."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:66
+msgid "Number of sroll items"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:67
+msgid "The number of items to scroll."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:73
+msgid "Effect"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:74
+msgid "Indicates which effect to use for the transition."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:86
+msgid "Indicates which easing function to use for the transition."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:97
+msgid "Duration"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_gallery_carousel.php:98
+msgid "Determines the duration of the transition in milliseconds."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:3
+msgid "Enable Google Map"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:4
+msgid "Enable or disable google map."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:14
+msgid "Enable or disable company info box on Google Map."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:23
+msgid "Show company info box at start"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:24
+msgid "Show or hide company info box at start."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:34
+msgid "Map type."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:48
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:63
+msgid "You can designate coordinates using this tool:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:51
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:66
+msgid "Latitude"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:55
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:70
+msgid "Longitude"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:62
+msgid "Coordinates of marker, in order: latitude, longitude."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:101
+msgid "Map type control style."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:113
+msgid "Map type control position."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:143
+msgid "Zoom style."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:155
+msgid "Zoom position."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:177
+msgid "Pan control position."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:199
+msgid "Scale control position."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:210
+msgid "Street View control"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:220
+msgid "Street View position"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_google_map.php:221
+msgid "Street View position."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:3
+msgid "Enable navigation bar"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:4
+msgid "Enable or disable navigation bar."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:13
+msgid "Position of navigation bar"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:14
+msgid "Position of navigation bar."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:32
+msgid "Opacity for background color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:33
+msgid "Opacity for background color (in %)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:40
+msgid "Background color - on hover"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:41
+msgid "Background hover color (in HEX)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:47
+msgid "Opacity for background color - on hover"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:48
+msgid "Opacity for background color - on hover (in %)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:55
+msgid "Background color - selected element"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:56
+msgid "Background color - selected element (in HEX)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:62
+msgid "Opacity for background color - selected element"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:63
+msgid "Opacity for background color - selected element (in %)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:70
+msgid "Background color - visible element"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:71
+msgid "Background color - visible element (in HEX)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:77
+msgid "Opacity for background color - visible element"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:78
+msgid "Opacity for background color - visible element (in %)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:85
+msgid "Easing of scroll animation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:86
+msgid "Easing type of scroll animation."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:97
+msgid "Speed of scroll animation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:98
+msgid "Speed of scroll animation in milliseconds."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:104
+msgid "Hide navigation bar"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:105
+msgid "Hide navigation bar when content is stretched to full width."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:114
+msgid "Enable animations of navigation bar items"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:115
+msgid "Enable animations of navigation bar items."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:124
+msgid "Enable titles of navigation bar items"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_navigation_bar.php:125
+msgid "Enable showing titles (on hover) of navigation bar items."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_newsletter_form.php:3
+msgid "Enable newsletter"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/plugin_newsletter_form.php:4
+msgid "Enable or disable newsletter form."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/shortcode_manager.php:78
+msgid "Create shortcode"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/social_network_profile.php:8
+#, php-format
+msgid "Settings for %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/social_network_profile.php:10
+msgid "Enter URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/social_network_profile.php:14
+msgid "Default order"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/social_network_twitter_carousel.php:3
+msgid "Enable tweets carousel"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/social_network_twitter_carousel.php:4
+msgid "Enable or disable tweets carousel."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/social_network_twitter_carousel.php:13
+msgid "Twitter username"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/social_network_twitter_carousel.php:14
+msgid "Twitter username."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/social_network_twitter_carousel.php:20
+msgid "Consumer key"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/social_network_twitter_carousel.php:21
+msgid "Consumer key."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/social_network_twitter_carousel.php:27
+msgid "Consumer secret key"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/social_network_twitter_carousel.php:28
+msgid "Consumer secret key."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/social_network_twitter_carousel.php:34
+msgid "Access token"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/social_network_twitter_carousel.php:35
+msgid "Access token."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/social_network_twitter_carousel.php:41
+msgid "Access secret token"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/social_network_twitter_carousel.php:42
+msgid "Access secret toke."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/social_network_twitter_carousel.php:48
+msgid "Number of tweets"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/social_network_twitter_carousel.php:49
+msgid "Number of tweets."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/testimonial_meta_box.php:6
+msgid "Person name (surname)."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/testimonial_meta_box.php:19
+msgid "Caption"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\nostalgia-landing/template/admin/testimonial_meta_box.php:20
+msgid "Testimonial caption."
+msgstr ""

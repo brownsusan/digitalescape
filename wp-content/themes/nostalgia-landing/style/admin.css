@@ -1,0 +1,109 @@
+/******************************************************************************/
+/*	Icon																	  */
+/******************************************************************************/
+
+#adminmenu #menu-posts-nlt_gallery div.wp-menu-image:before
+{
+	content:'\f161';
+}
+#adminmenu #menu-posts-nlt_feature div.wp-menu-image:before
+{
+	content:'\f214';
+}
+#adminmenu #menu-posts-nlt_testimonial div.wp-menu-image:before
+{
+	content:'\f122';
+}
+#adminmenu #menu-posts-nlt_audio_player div.wp-menu-image:before
+{
+	content:'\f127';
+}
+#adminmenu #menu-posts-nlt_bg_video div.wp-menu-image:before
+{
+	content:'\f236';
+}
+#adminmenu #menu-posts-nlt_bg_slider div.wp-menu-image:before
+{
+	content:'\f233';
+}
+#adminmenu #menu-posts-nlt_page_schema div.wp-menu-image:before
+{
+	content:'\f100';
+}
+#adminmenu #menu-posts-nlt_email_address div.wp-menu-image:before
+{
+	content:'\f465';
+}
+
+/******************************************************************************/
+/*	Icon column																  */
+/******************************************************************************/
+
+.wp-list-table .column-icon
+{
+	width:250px;
+}
+
+#nlt_feature
+{
+	min-height:400px;
+}
+
+/******************************************************************************/
+/*	Image column															  */
+/******************************************************************************/
+
+.image.column-image a
+{
+	display:inline-block;
+}
+
+	.image.column-image a img
+	{
+		display:block;
+	}
+
+/******************************************************************************/
+/*	Page Schema																  */
+/******************************************************************************/
+
+.theme-page-schema-list
+{
+	
+}
+
+	.theme-page-schema-list ul
+	{
+		margin:0px;
+		padding:0px;
+		list-style-type:none;
+	}
+
+		.theme-page-schema-list li
+		{
+			clear:both;
+			height:100%;
+			overflow:hidden;
+			line-height:20px;
+		}
+
+		.theme-page-schema-list ul li .theme-page-schema-list-property-color-box
+		{
+			float:left;
+			width:13px;
+			height:13px;
+			padding:1px;
+			border:solid 1px;
+			margin:0px 5px 0px 0px;
+		}
+
+		.theme-page-schema-list ul li .theme-page-schema-list-property-label
+		{
+			float:left;
+			width:150px;
+		}
+
+		.theme-page-schema-list ul li .theme-page-schema-list-property-value
+		{
+			float:left;
+		}
