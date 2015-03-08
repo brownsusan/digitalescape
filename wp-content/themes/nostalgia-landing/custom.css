@@ -1,31 +1,260 @@
+/*
+* Skeleton V1.2
+* Copyright 2011, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 6/20/2012
+*/
+
+
+/* Table of Contents
+==================================================
+    #Base 890 Grid
+    #Tablet (Portrait)
+    #Mobile (Portrait)
+    #Mobile (Landscape)
+    #Clearing */
+
+
+
+    /* #Additional - Flexible Column Widths
+    ================================================== */
+
+    /* Nested Column Classes */
+    .column.alpha, .columns.alpha               { margin-left: 0; }
+    .column.omega, .columns.omega               { margin-right: 0; }
+
+    .container                                  { position: relative; width: 890px; margin: 0 auto; padding: 0; }
+    .container .column,
+    .container .columns                         { float: left; display: inline; margin-left: 9.27083333333333px; margin-right: 9.27083333333333px; }
+    .row                                        { margin-bottom: 20px; clear: both;}
+
+    /* Nested Column Classes */
+    .column.alpha, .columns.alpha               { margin-left: 0; }
+    .column.omega, .columns.omega               { margin-right: 0; }
+
+    /* Base Grid */
+    .container .one.column,
+    .container .one.columns                     { width: 37.08333333333333px;  }
+    .container .two.columns                     { width: 92.70833333333333px; }
+    .container .three.columns                   { width: 148.33333333333333px; }
+    .container .four.columns                    { width: 203.95833333333333px; }
+    .container .five.columns                    { width: 259.58333333333333px; }
+    .container .six.columns                     { width: 315.20833333333333px; }
+    .container .seven.columns                   { width: 370.83333333333333px; }
+    .container .eight.columns                   { width: 426.45833333333333px; }
+    .container .nine.columns                    { width: 482.08333333333333px; }
+    .container .ten.columns                     { width: 537.70833333333333px; }
+    .container .eleven.columns                  { width: 593.33333333333333px; }
+    .container .twelve.columns                  { width: 648.95833333333333px; }
+    .container .thirteen.columns                { width: 704.58333333333333px; }
+    .container .fourteen.columns                { width: 760.20833333333333px; }
+    .container .fifteen.columns                 { width: 815.83333333333333px; }
+    .container .sixteen.columns                 { width: 871.45833333333333px; }
+
+    .container .one-third.column                { width: 278.125px; }
+    .container .two-thirds.column               { width: 574.79166666666667px; }
+
+    /* Offsets */
+    .container .offset-by-one                   { padding-left: 55.625px;  }
+    .container .offset-by-two                   { padding-left: 111.25px; }
+    .container .offset-by-three                 { padding-left: 166.875px; }
+    .container .offset-by-four                  { padding-left: 222.5px; }
+    .container .offset-by-five                  { padding-left: 278.125px; }
+    .container .offset-by-six                   { padding-left: 333.75px; }
+    .container .offset-by-seven                 { padding-left: 389.375px; }
+    .container .offset-by-eight                 { padding-left: 445px; }
+    .container .offset-by-nine                  { padding-left: 500.625px; }
+    .container .offset-by-ten                   { padding-left: 556.25px; }
+    .container .offset-by-eleven                { padding-left: 611.875px; }
+    .container .offset-by-twelve                { padding-left: 667.5px; }
+    .container .offset-by-thirteen              { padding-left: 723.125px; }
+    .container .offset-by-fourteen              { padding-left: 778.75px; }
+    .container .offset-by-fifteen               { padding-left: 834.375px; }
+
+
+/* #Tablet (Portrait)
+================================================== */
+
+/* Note: Design for a width of 768px */
+
+@media only screen and (min-width: 768px) and (max-width: 970px) {
+	.container                                  { width: 670px; }
+	.container .column,
+	.container .columns                         { margin-left: 8.72395833333333px; margin-right: 8.72395833333333px;  }
+	.column.alpha, .columns.alpha               { margin-left: 0; margin-right: 8.72395833333333px; }
+	.column.omega, .columns.omega               { margin-right: 0; margin-left: 8.72395833333333px; }
+	.alpha.omega                                { margin-left: 0; margin-right: 0; }
+
+	.container .one.column,
+	.container .one.columns                     { width: 24.42708333333333px; }
+	.container .two.columns                     { width: 66.30208333333333px; }
+	.container .three.columns                   { width: 108.17708333333333px; }
+	.container .four.columns                    { width: 150.05208333333333px; }
+	.container .five.columns                    { width: 191.92708333333333px; }
+	.container .six.columns                     { width: 233.80208333333333px; }
+	.container .seven.columns                   { width: 275.67708333333333px; }
+	.container .eight.columns                   { width: 317.55208333333333px; }
+	.container .nine.columns                    { width: 359.42708333333333px; }
+	.container .ten.columns                     { width: 401.30208333333333px; }
+	.container .eleven.columns                  { width: 443.17708333333333px; }
+	.container .twelve.columns                  { width: 485.05208333333333px; }
+	.container .thirteen.columns                { width: 526.92708333333333px; }
+	.container .fourteen.columns                { width: 568.80208333333333px; }
+	.container .fifteen.columns                 { width: 610.67708333333333px; }
+	.container .sixteen.columns                 { width: 652.55208333333333px; }
+
+	.container .one-third.column                { width: 205.88541666666667px; }
+	.container .two-thirds.column               { width: 429.21875px; }
+
+	/* Offsets */
+	.container .offset-by-one                   { padding-left: 36.53157552083333px; }
+	.container .offset-by-two                   { padding-left: 60.1953125px; }
+	.container .offset-by-three                 { padding-left: 125.625px; }
+	.container .offset-by-four                  { padding-left: 167.5px; }
+	.container .offset-by-five                  { padding-left: 209.375px; }
+	.container .offset-by-six                   { padding-left: 251.25px; }
+	.container .offset-by-seven                 { padding-left: 293.125px; }
+	.container .offset-by-eight                 { padding-left: 335px; }
+	.container .offset-by-nine                  { padding-left: 376.875px; }
+	.container .offset-by-ten                   { padding-left: 418.75px; }
+	.container .offset-by-eleven                { padding-left: 460.625px; }
+	.container .offset-by-twelve                { padding-left: 502.5px; }
+	.container .offset-by-thirteen              { padding-left: 544.375px; }
+	.container .offset-by-fourteen              { padding-left: 586.25px; }
+	.container .offset-by-fifteen               { padding-left: 628.125px; }
+}
+
+
+/*  #Mobile (Portrait)
+================================================== */
+
+/* Note: Design for a width of 320px */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.container { width: 380px; }
+	.container .columns,
+	.container .column { margin: 0; }
+
+	.container .one.column,
+	.container .one.columns,
+	.container .two.columns,
+	.container .three.columns,
+	.container .four.columns,
+	.container .five.columns,
+	.container .six.columns,
+	.container .seven.columns,
+	.container .eight.columns,
+	.container .nine.columns,
+	.container .ten.columns,
+	.container .eleven.columns,
+	.container .twelve.columns,
+	.container .thirteen.columns,
+	.container .fourteen.columns,
+	.container .fifteen.columns,
+	.container .sixteen.columns,
+	.container .one-third.column,
+	.container .two-thirds.column  { width: 380px; }
+
+	/* Offsets */
+	.container .offset-by-one,
+	.container .offset-by-two,
+	.container .offset-by-three,
+	.container .offset-by-four,
+	.container .offset-by-five,
+	.container .offset-by-six,
+	.container .offset-by-seven,
+	.container .offset-by-eight,
+	.container .offset-by-nine,
+	.container .offset-by-ten,
+	.container .offset-by-eleven,
+	.container .offset-by-twelve,
+	.container .offset-by-thirteen,
+	.container .offset-by-fourteen,
+	.container .offset-by-fifteen { padding-left: 0; }
+
+}
+
+
+/* #Mobile (Landscape)
+================================================== */
+
+/* Note: Design for a width of 480px */
+
+@media only screen and (max-width: 479px) {
+	.container { width: 220px; }
+	.container .columns,
+	.container .column { margin: 0; }
+
+	.container .one.column,
+	.container .one.columns,
+	.container .two.columns,
+	.container .three.columns,
+	.container .four.columns,
+	.container .five.columns,
+	.container .six.columns,
+	.container .seven.columns,
+	.container .eight.columns,
+	.container .nine.columns,
+	.container .ten.columns,
+	.container .eleven.columns,
+	.container .twelve.columns,
+	.container .thirteen.columns,
+	.container .fourteen.columns,
+	.container .fifteen.columns,
+	.container .sixteen.columns,
+	.container .one-third.column,
+	.container .two-thirds.column { width: 220px; }
+}
+
+
+
+
+/* #Clearing
+================================================== */
+
+/* Self Clearing Goodness */
+.container:after { content: "\0020"; display: block; height: 0; clear: both; visibility: hidden; }
+
+/* Use clearfix class on parent to clear nested columns,
+or wrap each row of columns in a <div class="row"> */
+.clearfix:before,
+.clearfix:after,
+.row:before,
+.row:after {
+	content: '\0020';
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0; 
+}
+.row:after,
+.clearfix:after {
+	clear: both; 
+}
+.row,
+.clearfix {
+	zoom: 1
+}
+.clear {
+	clear: both;
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+}
+
+
+
 /*Game Schema Overrides*/
 .page-schema-148 .content{
 	background: #222222;
 	padding: 30px 40px 20px;
+	overflow: hidden;
 }
-
-.page-schema-148 img{
-	border: 4px solid white;
-}
-
-.page-schema-148 .game-image-1-portrait{
-	width: 95%;
-}
-
-.page-schema-148 .game-image-2-portrait{
-	width: 45%;
-	margin: 15px;
-}
-
-.page-schema-148 .game-image-3-portrait{
-	width: 30%;
-}
-
-.page-schema-148 .game-image-4-portrait{
-	width: 20%;
-	margin: 16px;
-}
-
 .page-schema-148 h2{
 	padding: 20px 40px 0;
 	margin-bottom: 0;
@@ -38,47 +267,42 @@
 	display: block;
 }
 
-.page-schema-148 div{
-	clear: both;
-}
-
-
 /*Theme Default Style Overrides*/
 html{
-	background-image: url('http://localhost:8888/digitalescape/wp-content/uploads/2012/10/JB3000_Castle-Ice-16-9.png');
+	/*background-image: url('http://localhost:8888/digitalescape/wp-content/uploads/2012/10/JB3000_Castle-Ice-16-9.png');*/
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: top left;
+	font-family: 'Dosis';
 }
 
+.background-overlay-13{
+	background-image: url('http://localhost:8888/digitalescape/wp-content/uploads/2015/03/arches.png');
+}
 .logo{
 	max-width:100px !important;
-	background-color: #e6e6e6;
+	/*background-color: #e6e6e6;*/
 }
-
 ul.social-list li a{
 	background-color: #ebebeb;
 }
-
-ul.social-list li a:hover{
-	background-color: #222222;
-}
-
-.nostalgia-accordion .ui-accordion-header.ui-state-active{
+ul.social-list li a:hover, .nostalgia-accordion .ui-accordion-header.ui-state-default, .nostalgia-accordion .ui-accordion-header.ui-state-active{
 	background-color: #222222 !important;
 }
 
+
+.nostalgia-accordion .ui-accordion-header.ui-state-active a{
+	color: rgba(95,208,217,1) !important;
+}
 ul.testimonial-list li p{
 	background-color: #222222;
 }
-
 ul.testimonial-list .testimonial-list-author{
 	background-image: none !important;
 	padding-left: 0 !important;
 	position: relative;
 }
-
 ul.testimonial-list .testimonial-list-author::before{
 	display: block;
 	content: '';
@@ -93,5 +317,301 @@ ul.testimonial-list .testimonial-list-author::before{
 	margin-left: -10px;
 	margin-top: -7px;
 }
+.page-schema-148 p{
+	font-family: 'Dosis';
+	font-size: 20px;
+}
+#page-network-with-us ul{
+	margin-left: 15px;
+}
+#page-network-with-us li{
+	padding-bottom: 10px;
+	font-size: 13px;
+	font-weight: lighter;
+}
+.games-header{
+	text-align: center;
+	margin-top: 50px;
+	color: white;
+}
+.game-section h2{
+	color: rgba(95,208,217,1);
+}
 
+ul.feature-list-1, ul.feature-list-2{
+	margin-bottom: 40px;
+}
+
+/*override hovers*/
+a.link-button:hover,
+.nostalgia-accordion .ui-accordion-header.ui-state-default.ui-state-hover a,
+ul.gallery li:hover *
+{
+	color:rgba(95,208,217,1);
+}
+
+div.navigation-bar li:hover
+{
+	background-color:rgba(95,208,217,1);
+	zoom:1;
+	-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff5FD0D9,endColorstr=#ff5FD0D9);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff5FD0D9,endColorstr=#ff5FD0D9);
+}
+div.navigation-bar li.selected
+{
+	background-color:rgba(95,208,217,1);
+	zoom:1;
+	-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff5FD0D9,endColorstr=#ff5FD0D9);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff5FD0D9,endColorstr=#ff5FD0D9);
+}
+
+
+/*CUSTOM GALLERY CSS*/
+/*gallery css*/
+
+.game-art-wrapper{
+  position:relative;
+}
+
+/**
+ * Padding is set relative to the width
+ * of the element, so here padding-top:60% is
+ * a percentage of the width. This allows us 
+ * to set the height as a ratio of the width
+ *
+ */
+.game-art-carousel{
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+}
+
+
+/*Portrait image ratio height: 177.89473684210526*/
+.portrait{
+	padding-top: 187.89473684210526%;
+}
+
+.landscape{
+	padding-top: 83.25%;
+}
+
+.game-art-inner{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top:0;
+	left: 0;
+	overflow: hidden;
+}
+
+/**
+ * ==========================
+ * Animation styles
+ * 
+ * Notes:
+ * 1. We use z-index to position active slides in-front 
+ * of non-active slides
+ * 2. We set right:0 and left:0 on .slide to provide us with
+ * a default positioning on both sides of the slide. This allows 
+ * us to trigger JS and CSS3 animations easily
+ *
+ */
+.game-art-slide{
+	width: 100%;
+	/*height: 100%;*/
+	position: absolute;
+	top:0;
+	right:0;
+	left:0;
+	z-index: 1;
+	opacity: 0;
+}
+
+.game-art-slide.active,
+.game-art-slide.left,
+.game-art-slide.right{
+	z-index: 2;
+	opacity: 1;
+}
+
+/**
+ * ==========================
+ * JS animation styles
+ * 
+ * We use jQuery.animate to control the sliding animations
+ * when CSS3 animations are not available. In order for
+ * the next slide to slide in from the right, we need
+ * to change the left:0 property of the slide to left:auto
+ *
+ */
+
+.js-reset-left{left:auto}
+
+/**
+ * ==========================
+ * CSS animation styles
+ * 
+ * .slide.left and .slide.right set-up
+ * the to-be-animated slide so that it can slide
+ * into view. For example, a slide that is about 
+ * to slide in from the right will:
+ * 1. Be positioned to the right of the viewport (right:-100%)
+ * 2. Slide in when the style is superseded with a more specific style (right:0%)
+ *
+ */
+.game-art-slide.left{
+	left:-100%;
+	right:0;
+}
+
+.game-art-slide.right{
+	right:-100%;
+	left: auto;
+}
+
+.game-art-transition .game-art-slide.left{left:0%}
+.game-art-transition .game-art-slide.right{right:0%}
+
+/**
+ * The following classes slide the previously active
+ * slide out of view before positioning behind the 
+ * currently active slide
+ *
+ */
+.game-art-transition .game-art-slide.shift-right{right: 100%;left:auto}
+.game-art-transition .game-art-slide.shift-left{left: 100%;right:auto}
+
+/**
+ * This sets the CSS properties that will animate. We set the
+ * transition-duration property dynamically via JS.
+ * We use the browser's default transition-timing-function
+ * for simplicity's sake
+ * 
+ * It is important to note that we are using CodePen's inbuilt
+ * CSS3 property prefixer. For your own projects, you will need
+ * to prefix the transition and transform properties here to ensure
+ * reliable support across browsers
+ **/
+ 
+.game-art-transition .game-art-slide{
+	transition-property: right, left, margin;
+}
+
+/**
+ * ==========================
+ * Indicators
+ *
+ */
+.game-art-indicators{
+	width:100%;
+	position: absolute;
+	bottom:0;
+	z-index: 4;
+	padding:0;
+	text-align: center;
+}
+
+.game-art-indicators li{
+	width: 13px;
+	height: 13px;
+	display: inline-block;
+	margin: 5px;
+	background: #fff;
+	list-style-type: none;
+	border-radius: 50%;
+	cursor:pointer;
+	transition:background 0.3s ease-out;
+}
+
+.game-art-indicators li.active{background:#93278f}
+
+.game-art-indicators li:hover{background-color:#2b2b2b}
+
+/**
+ * ==========================
+ * Arrows 
+ *
+ */
+.game-art-arrow{
+	display: block;
+	width: 15px;
+	height: 15px;
+	position:absolute;
+	bottom:6px;
+	z-index:5;
+	border-top:3px solid #fff;
+	border-right:3px solid #fff;
+	cursor:pointer;
+	transition:border-color 0.3s ease-out;
+}
+
+.game-art-arrow:hover{
+	border-color:#93278f;
+}
+
+.game-art-arrow-left{
+	left:5px;
+	transform:rotate(225deg);
+}
+
+.game-art-arrow-right{
+	right:5px;
+	transform:rotate(45deg);
+}
+
+/**
+ * ==========================
+ * For demo purposes only
+ * 
+ * Please note that the styles below are used
+ * for the purposes of this demo only. There is no need
+ * to use these in any of your own projects
+ *
+ */
+.game-art-slide{
+	text-align:center;
+	/*height: 100%;*/
+}
+
+.game-art-wrapper h1{
+	width:100px;
+	height:100px;
+	background-color:rgba(146, 45, 141,0.7);
+	margin:auto;
+	line-height:100px;
+	color:#fff;
+	font-size:2.4em;
+	border-radius:50%;
+}
+
+
+@media only screen and (min-width: 768px){
+	.game-art-mobile{
+		display: none;
+	}
+	.game-art-desktop{
+		display: block;
+	}
+	.arrow{
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 767px){
+	.game-art-mobile{
+		display: block;
+	}
+	.game-art-desktop{
+		display: none;
+	}
+	.arrow{
+		display: block;
+	}
+
+	.page-schema-148 p{
+		font-size: 16px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
 }
