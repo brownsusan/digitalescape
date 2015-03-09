@@ -287,6 +287,46 @@ div.subheader
 	color:#ffffff;
 }
 
+.page-schema-315
+{
+	background-color:transparent;
+}
+@media only screen  and (max-width:479px)
+{
+
+.page-schema-315>div
+{
+	padding-top:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:0px;
+}
+}
+
+
+.page-schema-315>div ,
+.page-schema-315>div .nostalgia-accordion.ui-widget,
+.page-schema-315>div .nostalgia-accordion.ui-widget p
+{
+	color:#ffffff;
+}
+
+.page-schema-315 h1,
+.page-schema-315 h2,
+.page-schema-315 h3,
+.page-schema-315 h4,
+.page-schema-315 h5,
+.page-schema-315 h6,
+.page-schema-315 h1 a,
+.page-schema-315 h2 a,
+.page-schema-315 h3 a,
+.page-schema-315 h4 a,
+.page-schema-315 h5 a,
+.page-schema-315 h6 a
+{
+	color:#ffffff;
+}
+
 .page-schema-6
 {
 	background-color:transparent;

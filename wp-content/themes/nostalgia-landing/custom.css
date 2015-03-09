@@ -267,6 +267,11 @@ or wrap each row of columns in a <div class="row"> */
 	display: block;
 }
 
+/*Games Parent Overrides*/
+.page-schema-315 h2{
+	text-align: center;
+}
+
 /*Theme Default Style Overrides*/
 html{
 	/*background-image: url('http://localhost:8888/digitalescape/wp-content/uploads/2012/10/JB3000_Castle-Ice-16-9.png');*/
@@ -280,6 +285,11 @@ html{
 .background-overlay-13{
 	background-image: url('http://localhost:8888/digitalescape/wp-content/uploads/2015/03/arches.png');
 }
+
+ul.page-list>li:first-child{
+	margin-top: 20px; 
+}
+
 .logo{
 	max-width:100px !important;
 	/*background-color: #e6e6e6;*/

@@ -135,7 +135,6 @@ jQuery(document).ready(function($)
 	/*	Custom JS   														  */
 	/**************************************************************************/
 
-	$("#page-main").after('<h2 id="page-games" class="games-header">Our Games</h2>');
 	$(".header-learn-more").click(function(e){
 		e.preventDefault;
 		$('html, body').animate({
@@ -145,7 +144,7 @@ jQuery(document).ready(function($)
 	$(".header-see-games").click(function(e){
 		e.preventDefault;
 		$('html, body').animate({
-			scrollTop: $("#page-games").offset().top - 20
+			scrollTop: $("#page-our-games").offset().top - 20
 		}, 2000);
 	});
 

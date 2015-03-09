@@ -31,7 +31,8 @@ class NLThemeNavigationBar
 			'social'															=>	array(__('Social',THEME_DOMAIN)),
 			'stats'																=>	array(__('Stats',THEME_DOMAIN)),
 			'testimonials'														=>	array(__('Testimonials',THEME_DOMAIN)),
-			'videos'															=>	array(__('Videos',THEME_DOMAIN))
+			'videos'															=>	array(__('Videos',THEME_DOMAIN)),
+			'games'																=>	array(__('Games',THEME_DOMAIN))
 		);
 
 		$this->position=array
